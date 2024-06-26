@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Splashing Water
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 1532853197559362514, guid: c5b7de39c95cd7445a45a9900105fd49, type: 3}
+  - {fileID: 809547178622862236, guid: c5b7de39c95cd7445a45a9900105fd49, type: 3}
+  - {fileID: 3033841039805340799, guid: c5b7de39c95cd7445a45a9900105fd49, type: 3}
+  - {fileID: -6816637556107595983, guid: c5b7de39c95cd7445a45a9900105fd49, type: 3}
+  - {fileID: -9176021797930373718, guid: c5b7de39c95cd7445a45a9900105fd49, type: 3}
+  - {fileID: -653203278338066326, guid: c5b7de39c95cd7445a45a9900105fd49, type: 3}
+  - {fileID: 3686092136246798233, guid: c5b7de39c95cd7445a45a9900105fd49, type: 3}
+  - {fileID: -6585770927523592084, guid: c5b7de39c95cd7445a45a9900105fd49, type: 3}
+  - {fileID: 5523766285466024718, guid: c5b7de39c95cd7445a45a9900105fd49, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 4
+  m_AnimationStartTime: 0
+  m_TileColliderType: 1

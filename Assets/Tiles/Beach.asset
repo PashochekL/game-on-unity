@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6e4e4fc705376343a3e65b25d94f0e2, type: 3}
+  m_Name: Beach
+  m_EditorClassIdentifier: 
+  m_Sprites:
+  - {fileID: -2561505534276905953, guid: 9536027a858dec94a9c6eb6c832feee3, type: 3}
+  - {fileID: -4325689942982298567, guid: 9536027a858dec94a9c6eb6c832feee3, type: 3}
+  - {fileID: 581815835517008383, guid: 9536027a858dec94a9c6eb6c832feee3, type: 3}
+  - {fileID: -9192030105664384450, guid: 9536027a858dec94a9c6eb6c832feee3, type: 3}
+  - {fileID: 9125898813686971356, guid: 9536027a858dec94a9c6eb6c832feee3, type: 3}
+  - {fileID: -8000168121700606960, guid: 9536027a858dec94a9c6eb6c832feee3, type: 3}
+  - {fileID: -2433756658245941984, guid: 9536027a858dec94a9c6eb6c832feee3, type: 3}
+  - {fileID: -8182701001642854490, guid: 9536027a858dec94a9c6eb6c832feee3, type: 3}
+  - {fileID: -5681130688696901402, guid: 9536027a858dec94a9c6eb6c832feee3, type: 3}
+  - {fileID: -3948977113079676591, guid: 9536027a858dec94a9c6eb6c832feee3, type: 3}
+  - {fileID: 4412572424970416303, guid: 9536027a858dec94a9c6eb6c832feee3, type: 3}
+  - {fileID: -6685041762608183590, guid: 9536027a858dec94a9c6eb6c832feee3, type: 3}
+  - {fileID: -7692509083445754640, guid: 9536027a858dec94a9c6eb6c832feee3, type: 3}
+  - {fileID: 8204347476926459348, guid: 9536027a858dec94a9c6eb6c832feee3, type: 3}
+  - {fileID: 3821474148927542325, guid: 9536027a858dec94a9c6eb6c832feee3, type: 3}
